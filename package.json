@@ -1,6 +1,6 @@
 {
   "name": "translate3d",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A jQuery plugin that transforms HTML-elements depending on the previous transformation with callback.",
   "main": "jquery.translate3d.js",
   "peerDependencies": {

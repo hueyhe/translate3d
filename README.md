@@ -17,7 +17,7 @@ It is also available via [npm].
     $ npm install --save translate3d
 
 [npm]: http://npmjs.org/package/translate3d
-[jquery.translate3d.js]: http://npmjs.org/package/translate3d
+[jquery.translate3d.js]: https://github.com/hueyhe/translate3d
 
 
 Animating - `$.fn.translate3d`
